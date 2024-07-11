@@ -1,4 +1,4 @@
-# Huffman-
+# Huffman Text Compression-
 
 
 //class 1
